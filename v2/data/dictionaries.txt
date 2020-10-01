@@ -1,0 +1,16 @@
+a	mot
+add	them vao
+array	mang
+beautiful	xin dep, dep de
+book	quyen sach
+boy	con trai, cau be
+char	ki tu
+flower	hoa
+fly	bay
+girl	con gai, nu gioi
+good	tot
+happy	vui ve
+money	tien bac
+name	ten
+number	so, con so
+string	xau ki tu
